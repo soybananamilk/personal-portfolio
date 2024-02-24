@@ -61,7 +61,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-[#262717] mb-4">Get To Know Me</h2>
           <p className="text-base lg:text-lg text-[#655437]">
-            I'm Catherine Montano, a dynamic Graphic Designer and Frontend Developer 
+            I&apos;m Catherine Montano, a dynamic Graphic Designer and Frontend Developer 
             situated in the vibrant San Francisco Bay Area.  
             I specialize in curating compelling visual narratives and 
             translating them into seamlessly integrated digital landscapes. 
